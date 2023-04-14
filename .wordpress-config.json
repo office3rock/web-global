@@ -1,5 +1,5 @@
 {
-  "baseUrl": "web-global.ussl.co.il",
+  "baseUrl": "reshet.ussl.app/web-global",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
