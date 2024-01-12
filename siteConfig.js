@@ -18,26 +18,26 @@ module.exports = {
   subscribeWidget: {
     visible: false,
     title: "web-global.net",
-    helpText: "הישארו מעודכנים",
-    successMessage: "תודה ההודעה נשלחה בהצלחה",
+    helpText: "Keep following",
+    successMessage: "Thank you The message was sent successfully",
   },
   header: {
     navigation: [
       {
-        label: "דף הבית",
+        label: "Homepage",
         url: "https://web-global.net/",
       },
       {
-        label: "יצירת קשר",
+        label: "Contact",
         url: "https://web-global.net/contact",
       },
     ],
   },
   footer: {
-    copyright: "כל הזכויות שמורות ",
+    copyright: "All rights reserved ",
     navigation: [
       {
-        label: "דף הבית",
+        label: "Homepage",
         url: "https://web-global.net/",
       },
       {
@@ -46,7 +46,7 @@ module.exports = {
       },
       
       {
-        label: "יצירת קשר",
+        label: "Contact",
         url: "https://web-global.net/contact",
       },
      
